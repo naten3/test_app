@@ -1,0 +1,6 @@
+# Logfile created on 2013-10-27 09:33:20 -0500 by logger.rb/31641
+D, [2013-10-27T09:33:20.259147 #25924] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-10-27T09:33:20.328954 #25924] DEBUG -- : REQUESTING PAGE: GET /about with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-10-27T09:33:20.412728 #25924] DEBUG -- : REQUESTING PAGE: GET /help with {} and HTTP headers {"HTTP_REFERER"=>"/about"}
+D, [2013-10-27T09:33:20.465607 #25924] DEBUG -- : REQUESTING PAGE: GET /contact with {} and HTTP headers {"HTTP_REFERER"=>"/help"}
+D, [2013-10-27T09:33:20.484941 #25924] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/contact"}
